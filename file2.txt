@@ -1,6 +1,12 @@
 <code>
+<<<<<<< HEAD
 a=7;
 b=4:
 y = 6;
 z = a+b+ y;
+=======
+x = 5;
+y = 6;
+z = x + y;
+>>>>>>> gitwork
 </code>
